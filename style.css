@@ -15,8 +15,8 @@ h1{
 
 }
 .heading{
-     margin-bottom: 50px;
-
+     margin-bottom: 100px;
+margin-top: 30px;
 }
 .rowDaddy{
     margin-top: 30px;
@@ -36,6 +36,5 @@ button{
 @media (max-width: 565px) {
 .daddy{
         text-align: center;
-
 }
 }
